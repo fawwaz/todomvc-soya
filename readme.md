@@ -8,7 +8,7 @@
 
 >Eventually the final objective is to make the cost of web UI prototyping as small as possible, making iterative development of front-end much more viable.
 
-![](https://github.com/tastejs/todomvc-app-css/raw/master/screenshot.png)
+![](./preview.gif)
 
 ## Getting started
 
