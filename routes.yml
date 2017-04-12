@@ -1,0 +1,8 @@
+INDEX:
+  page: src/pages/IndexPage.js
+  nodes:
+    - [method, GET]
+    - [path, /]
+
+NOT_FOUND:
+  page: src/pages/NotFoundPage.js

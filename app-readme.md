@@ -1,35 +1,27 @@
-# Framework Name • [TodoMVC](http://todomvc.com)
+# Soya TodoMVC Example • [Soya](https://github.com/traveloka/soya)
 
-> Official description of the framework (from its website)
+> Soya uses React, Webpack and Redux to help speed up web front-end engineering efforts. Soya aims to:
+> * Make it easier for front-end engineers to create and share UI components, as easy Java engineers import classes!
+> * Reuse components on any layer of abstraction, just the view, the domain logic, or the entire component - along with its context.
+> * Removes the need to deal with HTML, CSS, JS and static file dependencies manually.
+> * Easier to code by running the same view code on server and client side.
+
+>Eventually the final objective is to make the cost of web UI prototyping as small as possible, making iterative development of front-end much more viable.
 
 
-## Resources
+## Learning Soya
 
-- [Website]()
-- [Documentation]()
-- [Used by]()
-- [Blog]()
-- [FAQ]()
-
-### Articles
-
-- [Interesting article]()
+As mentioned in the official Soya repo, `Soya is still in active development`. Although there is no a complete explanation on how to use Soya, you can start learning by cloning this TodoExample App or reading [Soya's documentation](https://github.com/traveloka/soya/wiki)
 
 ### Support
 
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/__)
-- [Google Groups]()
-- [Twitter](http://twitter.com/__)
-- [Google+]()
-
-*Let us [know](https://github.com/tastejs/todomvc/issues) if you discover anything worth sharing.*
-
+- Reach [Ricky@traveloka.com](mailto:ricky@traveloka.com)
 
 ## Implementation
 
-How was the app created? Anything worth sharing about the process of creating the app? Any spec violations?
+This example might not fully cover all Soya features. It only explains basic usage of Soya. Let me know if you have some suggestions or feedback for this example.
 
 
 ## Credit
 
-Created by [Your Name](http://your-website.com)
+Created by [Fawwaz Muhammad](http://fawwazmuhammad.com)

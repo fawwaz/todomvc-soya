@@ -1,6 +1,14 @@
-# TodoMVC App Template
+# Soya TodoMVC App Example
 
-> Template used for creating [TodoMVC](http://todomvc.com) apps
+> Example [TodoMVC](http://todomvc.com) apps based on [Soya](https://github.com/traveloka/soya)
+
+> Soya uses React, Webpack and Redux to help speed up web front-end engineering efforts. Soya aims to:
+* Make it easier for front-end engineers to create and share UI components, as easy Java engineers import classes!
+* Reuse components on any layer of abstraction, just the view, the domain logic, or the entire component - along with its context.
+* Removes the need to deal with HTML, CSS, JS and static file dependencies manually.
+* Easier to code by running the same view code on server and client side.
+
+> Eventually the final objective is to make the cost of web UI prototyping as small as possible, making iterative development of front-end much more viable.
 
 ![](https://github.com/tastejs/todomvc-app-css/raw/master/screenshot.png)
 
